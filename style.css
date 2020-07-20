@@ -1,0 +1,25 @@
+.container {
+  height: 300px;
+  width: 100%;
+}
+.text {
+  text-align: center;
+  font-size: 30px;
+}
+#display {
+  width: 100%;
+  font-size: 72px;
+  text-align: center;
+  margin: 0px auto;
+  color: blue;
+}
+.button {
+  width: 100%;
+  text-align: center;
+}
+#startStop {
+  margin: 5px;
+}
+#reset {
+  margin: 5px;
+}
